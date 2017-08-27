@@ -1,0 +1,11 @@
+= Presentation PDF to accompany "Intro to FluxFlix"
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.org[mark@thehecklers.org]
+* https://twitter.com/MkHeck[@mkheck on Twitter]
+
+== Related code repository
+
+https://github.com/mkheck/flux-flix-intro[Intro to FluxFlix: The Code]
